@@ -17,9 +17,9 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "express": "^latest"
+    "express": "latest"
   },
   "devDependencies": {
-    "nodemon": "^latest"
+    "nodemon": "latest"
   }
 }
